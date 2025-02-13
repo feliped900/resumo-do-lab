@@ -93,78 +93,59 @@ Este guia fornece um passo a passo detalhado para criar uma máquina virtual no 
 
 ---
 
-Resumo do Módulo 3: Gerenciamento e Governança - Gerenciamento de Custos no Microsoft Azure
+## Resumo do Módulo 3: Gerenciamento e Governança - Gerenciamento de Custos no Microsoft Azure
 
 Este material aborda os principais conceitos de gerenciamento de custos no Microsoft Azure, com foco em como controlar e otimizar os gastos relacionados aos serviços da plataforma.
 
-Roteiro de Aprendizagem:
+**Roteiro de Aprendizagem:**
 
-Gerenciamento de Custos:
+*   **Gerenciamento de Custos:**
+    *   Utilização da Calculadora de Custos e Preços
+    *   Implementação de estratégias de gerenciamento de custos e marcas.
 
-Utilização da Calculadora de Custos e Preços
+**Objetivos do Módulo:**
 
-Implementação de estratégias de gerenciamento de custos e marcas.
+*   Identificar os fatores que influenciam os custos no Azure.
+*   Comparar e contrastar a Calculadora de Preços e a Calculadora de Custo Total de Propriedade (TCO).
+*   Compreender o funcionamento da Ferramenta de Gerenciamento de Custos do Azure.
+*   Entender a finalidade e aplicação das marcas (tags) para organização e controle de custos.
 
-Objetivos do Módulo:
+**Fatores que Afetam os Custos:**
 
-Identificar os fatores que influenciam os custos no Azure.
+1.  **Tipo de Recurso:** Os custos variam conforme o tipo de recurso utilizado.
+2.  **Consumo:** O modelo de pagamento "pague pelo que usar" torna o consumo um fator crucial nos custos.
+3.  **Manutenção:** Monitorar e otimizar o ambiente Azure pode reduzir custos, como desligar máquinas virtuais subutilizadas.
+4.  **Área Geográfica:** Os preços dos recursos podem variar dependendo da região geográfica.
+5.  **Tráfego de Rede:** A transferência de dados de saída e entre recursos do Azure pode gerar custos, dependendo das zonas de cobrança.
+6.  **Assinatura:** O tipo de assinatura (ex: avaliação gratuita) influencia os custos.
 
-Comparar e contrastar a Calculadora de Preços e a Calculadora de Custo Total de Propriedade (TCO).
+**Explorar o Azure Marketplace:**
 
-Compreender o funcionamento da Ferramenta de Gerenciamento de Custos do Azure.
+*   O Azure Marketplace oferece uma variedade de aplicações e serviços de terceiros, certificados para execução no Azure.
+*   Inclui plataformas de contêiner de software livre, imagens de máquinas virtuais e bancos de dados, ferramentas de desenvolvimento e muito mais.
 
-Entender a finalidade e aplicação das marcas (tags) para organização e controle de custos.
+**Calculadora de Preços:**
 
-Fatores que Afetam os Custos:
+*   Ferramenta para estimar o custo dos produtos do Azure.
+*   Permite configurar opções como região, camada, opções de cobrança e suporte, programas e ofertas, e preço de Desenvolvimento/Teste do Azure.
 
-Tipo de Recurso: Os custos variam conforme o tipo de recurso utilizado.
+**Calculadora de Custo Total de Propriedade (TCO):**
 
-Consumo: O modelo de pagamento "pague pelo que usar" torna o consumo um fator crucial nos custos.
+*   Ferramenta para estimar a economia de custos ao migrar para o Azure.
+*   Compara os custos das infraestruturas locais com os custos do Azure na nuvem.
 
-Manutenção: Monitorar e otimizar o ambiente Azure pode reduzir custos, como desligar máquinas virtuais subutilizadas.
+**Gerenciamento de Custos do Azure:**
 
-Área Geográfica: Os preços dos recursos podem variar dependendo da região geográfica.
+*   **Relatórios:** Geração de relatórios de cobrança.
+*   **Enriquecimento de dados** para análise detalhada.
+*   **Orçamentos:** Definição de orçamentos de gastos.
+*   **Alertas:** Notificações quando os custos excedem os limites definidos.
+*   **Recomendações:** Sugestões para otimizar os custos.
 
-Tráfego de Rede: A transferência de dados de saída e entre recursos do Azure pode gerar custos, dependendo das zonas de cobrança.
+**Marcas (Tags):**
 
-Assinatura: O tipo de assinatura (ex: avaliação gratuita) influencia os custos.
+*   Metadados adicionados aos recursos do Azure.
+*   Organizam os recursos em uma taxonomia lógica.
+*   Consistem em pares nome-valor.
+*   Úteis para reunir informações de cobrança e facilitar o gerenciamento.
 
-Explorar o Azure Marketplace:
-
-O Azure Marketplace oferece uma variedade de aplicações e serviços de terceiros, certificados para execução no Azure.
-
-Inclui plataformas de contêiner de software livre, imagens de máquinas virtuais e bancos de dados, ferramentas de desenvolvimento e muito mais.
-
-Calculadora de Preços:
-
-Ferramenta para estimar o custo dos produtos do Azure.
-
-Permite configurar opções como região, camada, opções de cobrança e suporte, programas e ofertas, e preço de Desenvolvimento/Teste do Azure.
-
-Calculadora de Custo Total de Propriedade (TCO):
-
-Ferramenta para estimar a economia de custos ao migrar para o Azure.
-
-Compara os custos das infraestruturas locais com os custos do Azure na nuvem.
-
-Gerenciamento de Custos do Azure:
-
-Relatórios: Geração de relatórios de cobrança.
-
-Enriquecimento de dados para análise detalhada.
-
-Orçamentos: Definição de orçamentos de gastos.
-
-Alertas: Notificações quando os custos excedem os limites definidos.
-
-Recomendações: Sugestões para otimizar os custos.
-
-Marcas (Tags):
-
-Metadados adicionados aos recursos do Azure.
-
-Organizam os recursos em uma taxonomia lógica.
-
-Consistem em pares nome-valor.
-
-Úteis para reunir informações de cobrança e facilitar o gerenciamento.
